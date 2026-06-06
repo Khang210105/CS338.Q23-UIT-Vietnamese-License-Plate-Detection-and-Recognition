@@ -94,15 +94,3 @@ Recognition: Vùng ảnh biển số được chuyển qua mô hình nhận dạ
 Post-processing: Chuỗi văn bản thô đi qua module vn_plate.py nhằm áp dụng thuật toán đối sánh mẫu và cấu trúc biển số xe máy Việt Nam để tự động phát hiện, sửa đổi các lỗi nhận diện ký tự phổ biến (nhầm lẫn giữa 8 và B, 0 và D, vị trí đặt chữ/số theo luật...).
 
 Đầu ra: Trả về kết quả chuỗi biển số đã được tối ưu chuẩn xác lên màn hình giao diện.
-
-
----
-
-### 💡 Bước tiếp theo bạn cần làm:
-1. Tạo file `requirements.txt` và paste đoạn code tương ứng ở trên vào.
-2. Sửa lại file `README.md` của bạn bằng đoạn code Markdown ở trên.
-3. Tiến hành chạy chuỗi lệnh Git để push bản code sạch này lên GitHub:
-   ```bash
-   git add .
-   git commit -m "Add requirements.txt and updated README.md"
-   git push origin main
