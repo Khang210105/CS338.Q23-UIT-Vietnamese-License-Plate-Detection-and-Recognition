@@ -1,0 +1,5 @@
+Metric,Value_Percent
+Precision,99.92
+Recall,100.0
+mAP50,99.5
+mAP50-95,91.27

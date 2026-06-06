@@ -1,0 +1,9 @@
+detect_dataset/
+ocr_dataset/
+venv/
+__pycache__/
+
+*.pt
+*.pth
+*.ckpt
+*.MOV
